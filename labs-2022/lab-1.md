@@ -41,5 +41,6 @@ Create project in GitHub with minimal code-quality checks and autodepoly
     - https://www.digitalocean.com/
     - https://render.com/
     - https://fly.io/
+    - https://www.oracle.com/cloud/free/
   - Do not use:
     - Heroku
