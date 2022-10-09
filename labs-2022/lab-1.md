@@ -30,6 +30,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://prettier.io/
 - https://editorconfig.org/
+- https://prettier.io/docs/en/configuration.html#editorconfig
 - https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 - https://www.npmjs.com/package/husky
 - https://github.com/features/actions
