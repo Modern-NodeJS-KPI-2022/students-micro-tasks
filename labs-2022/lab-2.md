@@ -14,6 +14,7 @@ Server should include simple router, write it yourself. Please add 3-6 routes.
 - support different HTTP Methods (POST, GET, OPTIONS) for one route
 - support 2+ different content types (json, xml, formdata)
 - follow specification for JSON: https://jsonapi.org/
+- handle graceful shutdown
 ## Questions
 - why we have separate http and https?
 - Is it good idea to parse urls with REGEX?
@@ -25,6 +26,7 @@ Server should include simple router, write it yourself. Please add 3-6 routes.
 - https://nodejs.org/api/url.html
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
 - https://developer.mozilla.org/en-US/docs/Web/API/FormData
+- graceful shutdown: https://www.youtube.com/watch?v=ZstnowFeCe0
 - Bonus: 
   - https://en.wikipedia.org/wiki/HATEOAS
   - https://jsonapi.org/

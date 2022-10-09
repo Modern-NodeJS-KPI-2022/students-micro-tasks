@@ -24,3 +24,7 @@
 
 ## Tests with native nodejs asserts 
 https://nodejs.org/api/assert.html
+
+## add csp headers
+
+## event loop, tick, next tick etc
