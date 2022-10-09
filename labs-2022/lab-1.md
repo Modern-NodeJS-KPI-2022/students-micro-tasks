@@ -20,6 +20,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - Why we have separate tooling for formatting/linting
 - Difference with VPS/FaaS?
 - Why we need peerDeps?
+- `npm i` vs `npm ci`
 - 
 ## Links
 - https://gist.github.com/kjellskogsrud/d824c38f76e38010156d0bc80dbd3c62
