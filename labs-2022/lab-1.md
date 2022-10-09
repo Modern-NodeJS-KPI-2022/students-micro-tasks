@@ -26,6 +26,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - 
 ## Links
 - https://gist.github.com/kjellskogsrud/d824c38f76e38010156d0bc80dbd3c62
+- https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file
 - https://eslint.org/
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://prettier.io/
