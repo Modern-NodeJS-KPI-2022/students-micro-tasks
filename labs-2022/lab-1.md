@@ -48,5 +48,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
     - https://render.com/
     - https://fly.io/
     - https://www.oracle.com/cloud/free/
+    - AWS (free tier should be Ok)
+    - Azure (free tier should be Ok)
   - Do not use:
     - Heroku
