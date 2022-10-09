@@ -14,6 +14,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - Add check on pre-commit hooks
 - Add GitHub action to run checks\tests on commit or PR
 - Add AutoDeployment to any hosting provider
+- Add editorconfig
 - Bonus: the same with TypeScript
 - Bonus: SonarCloud, https://github.com/SonarSource/sonarcloud-github-action
 ## Questions
@@ -28,6 +29,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - https://eslint.org/
 - https://github.com/SonarSource/eslint-plugin-sonarjs
 - https://prettier.io/
+- https://editorconfig.org/
 - https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
 - https://www.npmjs.com/package/husky
 - https://github.com/features/actions

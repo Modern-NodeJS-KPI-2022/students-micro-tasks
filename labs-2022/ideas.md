@@ -21,3 +21,6 @@
 ## #4 Write computing MicroService on lambda function (operations with filesystem, zlib)
 
 ## #5 Write own Logger
+
+## Tests with native nodejs asserts 
+https://nodejs.org/api/assert.html
