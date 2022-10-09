@@ -8,13 +8,13 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 ### Requirements
 - new repo in GitHub
 - initial empty commit
-- add ESlint
+- add ESlint (as strict as possible)
 - add Sonar-Lint to ESLint
 - add Prettier
 - Add check on pre-commit hooks
 - Add GitHub action to run checks\tests on commit or PR
 - Add AutoDeployment to any hosting provider
-- Add editorconfig
+- Add Editorconfig
 - Bonus: the same with TypeScript
 - Bonus: SonarCloud, https://github.com/SonarSource/sonarcloud-github-action
 ## Questions
@@ -32,6 +32,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - https://editorconfig.org/
 - https://prettier.io/docs/en/configuration.html#editorconfig
 - https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks
+- https://prettier.io/docs/en/precommit.html
 - https://www.npmjs.com/package/husky
 - https://github.com/features/actions
 - https://github.com/actions/setup-node
