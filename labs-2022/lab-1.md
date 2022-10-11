@@ -44,6 +44,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
     - https://vercel.com/
     - https://firebase.google.com/
     - https://cloud.google.com/run
+    - exotic: https://denoflare.dev/
   - VPS
     - https://www.digitalocean.com/
     - https://render.com/
