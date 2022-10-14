@@ -52,5 +52,6 @@ Create project in GitHub with minimal code-quality checks and autodepoly
     - https://www.oracle.com/cloud/free/
     - AWS (free tier should be Ok)
     - Azure (free tier should be Ok)
+    - Google Cloud ([free tier](https://cloud.google.com/free-trial/))
   - Do not use:
     - Heroku
