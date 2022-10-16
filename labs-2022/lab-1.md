@@ -37,6 +37,7 @@ Create project in GitHub with minimal code-quality checks and autodepoly
 - https://www.npmjs.com/package/husky
 - https://github.com/features/actions
 - https://github.com/actions/setup-node
+- cache node_modules [standard](https://github.com/actions/setup-node#caching-global-packages-data) and [fast](https://www.voorhoede.nl/en/blog/super-fast-npm-install-on-github-actions/) also described [here](https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows)
 - https://github.com/actions/cache/blob/main/examples.md#node---npm
 - Deployment options:
   - Lambda
