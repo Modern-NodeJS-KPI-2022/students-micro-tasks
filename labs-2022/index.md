@@ -16,3 +16,9 @@
 After that deadline they can be discounted, or counted as not fully accomplished.
 
 ## [Lab 1](./lab-1.md)
+
+## [Lab 2](./lab-2.md)
+
+## [Lab 3](./lab-4.md)
+
+## [Lab 4](./lab-4.md)
